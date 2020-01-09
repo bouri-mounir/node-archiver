@@ -9,10 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/archiverjs/node-archiver.git"
+    "url": "https://github.com/istex/node-archiver.git"
   },
   "bugs": {
-    "url": "https://github.com/archiverjs/node-archiver/issues"
+    "url": "https://github.com/istex/node-archiver/issues"
   },
   "license": "MIT",
   "main": "index.js",
